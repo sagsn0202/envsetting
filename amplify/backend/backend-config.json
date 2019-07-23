@@ -1,0 +1,9 @@
+{
+	"auth": {
+		"amplifymultienv958a090b": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}
