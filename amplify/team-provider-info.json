@@ -15,5 +15,22 @@
                 "amplifymultienv958a090b": {}
             }
         }
+    },
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-multi-env-dev-20190723105050-authRole",
+            "UnauthRoleArn": "arn:aws:iam::411401907746:role/amplify-multi-env-dev-20190723105050-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::411401907746:role/amplify-multi-env-dev-20190723105050-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-multi-env-dev-20190723105050-deployment",
+            "UnauthRoleName": "amplify-multi-env-dev-20190723105050-unauthRole",
+            "StackName": "amplify-multi-env-dev-20190723105050",
+            "StackId": "arn:aws:cloudformation:us-west-2:411401907746:stack/amplify-multi-env-dev-20190723105050/4518e6f0-acec-11e9-9a2b-020d7038e876"
+        },
+        "categories": {
+            "auth": {
+                "amplifymultienv958a090b": {}
+            }
+        }
     }
 }
